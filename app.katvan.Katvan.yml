@@ -69,6 +69,6 @@ modules:
     sources:
       - type: git
         url: https://github.com/IgKh/katvan.git
-        commit: a0da313258adbe04bff9daf38d9e41d36480b2f3
-        tag: v0.10.0
+        commit: bc51fa0d30bde3805e8786520090baf734ce837f
+        tag: v0.11.0
       - 'katvan-generated-sources.json'
