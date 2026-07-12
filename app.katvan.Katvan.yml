@@ -1,6 +1,6 @@
 id: app.katvan.Katvan
 runtime: org.kde.Platform
-runtime-version: '6.10'
+runtime-version: '6.11'
 sdk: org.kde.Sdk
 sdk-extensions:
   - org.freedesktop.Sdk.Extension.rust-stable
@@ -69,6 +69,6 @@ modules:
     sources:
       - type: git
         url: https://github.com/IgKh/katvan.git
-        commit: 8f010181041928ec008c24fb1ee32529959011ff
-        tag: v0.12.1
+        commit: 72af7d1a43b1ec67d0d095cfada98478a1d5cbf3
+        tag: v0.13.0
       - 'katvan-generated-sources.json'
